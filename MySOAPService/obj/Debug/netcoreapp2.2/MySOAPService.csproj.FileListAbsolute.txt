@@ -1,0 +1,14 @@
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\bin\Debug\netcoreapp2.2\MySOAPService.deps.json
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\bin\Debug\netcoreapp2.2\MySOAPService.runtimeconfig.json
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\bin\Debug\netcoreapp2.2\MySOAPService.runtimeconfig.dev.json
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\bin\Debug\netcoreapp2.2\MySOAPService.dll
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.csprojAssemblyReference.cache
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.csproj.CoreCompileInputs.cache
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.RazorAssemblyInfo.cache
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.RazorAssemblyInfo.cs
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.AssemblyInfoInputs.cache
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.AssemblyInfo.cs
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.RazorTargetAssemblyInfo.cache
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\bin\Debug\netcoreapp2.2\MySOAPService.pdb
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.dll
+C:\Users\shahin.jabbarov\source\repos\MySOAPService\MySOAPService\obj\Debug\netcoreapp2.2\MySOAPService.pdb
